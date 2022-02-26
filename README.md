@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on everything
 - 📫 you may reach me through my instagram.
--     dipro_sikder
+-     https://www.instagram.com/dipro_sikder/
 
 <!---
 diprosikder/diprosikder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
